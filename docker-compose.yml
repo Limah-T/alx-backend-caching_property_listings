@@ -17,7 +17,7 @@ services:
 
   redis:
     image: redis:latest
-    container_name: messaging_redis
+    container_name: "redis_data"
     ports:
       - "6379:6379"
     networks:

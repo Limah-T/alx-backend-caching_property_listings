@@ -1,0 +1,30 @@
+.env
+desktop.ini/
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*.bak
+
+# Logs and databases
+*.log
+db.sqlite3
+
+# Media and static files (adjust as needed for your project)
+media/
+static/
+
+# Other temporary files
+*.tmp
+*.bak
